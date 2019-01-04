@@ -1,8 +1,7 @@
 {
   "extends": [
     "config:base",
-    ":preserveSemverRanges",
-    ":assignee(cmckni3)"
+    ":preserveSemverRanges"
   ],
   "packageRules": [
     {
