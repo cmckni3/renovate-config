@@ -1,6 +1,6 @@
 # cmckni3 renovate-config
 
-[Renovate config]() for my [personal repositories](https://github.com/cmckni3)
+[Renovate config](https://renovatebot.com/docs/reconfigure-renovate/) for my [personal repositories](https://github.com/cmckni3)
 
 ```json
 # renovate.json, .renovaterc.json, .renovaterc, or "renovate" in package.json
