@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "config:base",
+    ":preserveSemverRanges",
+    ":assignee(cmckni3)"
+  ],
+  "packageRules": [
+    {
+      "packagePatterns": [
+        "*"
+      ],
+      "semanticCommitType": "build"
+    },
+    {
+      "depTypeList": [
+        "dependencies"
+      ],
+      "semanticCommitType": "fix"
+    }
+  ]
+}
