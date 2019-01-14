@@ -8,13 +8,15 @@
       "packagePatterns": [
         "*"
       ],
-      "semanticCommitType": "build"
+      "semanticCommitType": "build",
+      "semanticCommitScope": "dev-dependencies"
     },
     {
       "depTypeList": [
         "dependencies"
       ],
-      "semanticCommitType": "fix"
+      "semanticCommitType": "fix",
+      "semanticCommitScope": "dependencies"
     }
   ]
 }
